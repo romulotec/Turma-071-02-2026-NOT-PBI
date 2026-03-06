@@ -1,0 +1,23 @@
+ID_Custo;ID_Campanha;Data_Custo;Tipo_Custo;Valor_Custo;Observacao
+1;1;05/01/2024;Impressões;500.00;Facebook Ads
+2;1;15/01/2024;Cliques;800.00;Campanha Verão
+3;1;25/01/2024;Impressões;600.00;Remarketing
+4;2;10/02/2024;Produção;2000.00;Criação de conteúdo
+5;2;20/02/2024;Impressões;1200.00;Instagram Ads
+6;3;05/03/2024;Ferramenta;300.00;Plataforma de email
+7;4;10/01/2024;Impressões;1500.00;Google Ads
+8;4;10/02/2024;Impressões;1800.00;Google Ads
+9;4;10/03/2024;Cliques;2000.00;Google Ads
+10;5;15/02/2024;Produção;1000.00;Banners
+11;5;20/03/2024;Impressões;800.00;Display Network
+12;6;05/03/2024;Impressões;400.00;Facebook
+13;7;10/01/2024;Impressões;600.00;LinkedIn Ads
+14;7;10/02/2024;Impressões;700.00;LinkedIn Ads
+15;8;05/03/2024;Impressões;500.00;Remarketing
+16;9;01/04/2024;Produção;2500.00;Vídeo institucional
+17;9;10/04/2024;Impressões;1000.00;Instagram
+18;10;01/02/2024;Produção;800.00;E-book
+19;10;10/02/2024;Impressões;400.00;Facebook
+20;11;05/03/2024;Parceria;3000.00;Influenciador
+21;12;01/11/2024;Produção;2000.00;Black Friday
+22;12;10/11/2024;Impressões;3000.00;Black Friday

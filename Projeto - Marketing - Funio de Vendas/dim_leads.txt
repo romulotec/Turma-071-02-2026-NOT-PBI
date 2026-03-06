@@ -1,0 +1,31 @@
+ID_Lead;Nome;Email;Data_Cadastro;ID_Campanha;Cidade;Estado;Idade;Gênero;Cargo
+1001;Ana Beatriz Silva;ana.b@email.com;05/01/2024;1;São Paulo;SP;28;F;Analista de Marketing
+1002;Carlos Eduardo Mendes;carlos.m@email.com;07/01/2024;2;Rio de Janeiro;RJ;35;M;Coordenador de Vendas
+1003;Mariana Oliveira;mariana.o@email.com;10/01/2024;4;Belo Horizonte;MG;42;F;Gerente Comercial
+1004;João Pedro Santos;joao.s@email.com;12/01/2024;1;Curitiba;PR;23;M;Assistente Administrativo
+1005;Patricia Gomes;patricia.g@email.com;15/01/2024;3;Porto Alegre;RS;31;F;Especialista de RH
+1006;Roberto Almeida;roberto.a@email.com;18/01/2024;5;São Paulo;SP;45;M;Diretor Comercial
+1007;Camila Fernandes;camila.f@email.com;20/01/2024;2;Salvador;BA;27;feminino;Analista de Vendas
+1008;Lucas Pereira;lucas.p@email.com;22/01/2024;4;Brasília;DF;33;M;Empresário
+1009;Fernanda Costa;fernanda.c@email.com;25/01/2024;6;Recife;PE;29;F;Coordenadora de Marketing
+1010;Rafaela Souza;rafaela.s@email.com;28/01/2024;7;Fortaleza;CE;38;F;Consultora
+1011;Amanda Ribeiro;amanda.r@email.com;01/02/2024;8;São Paulo;SP;26;f;Estagiária
+1012;Gustavo Henrique;gustavo.h@email.com;03/02/2024;1;Rio de Janeiro;RJ;41;M;Gerente de Produto
+1013;Juliana Martins;juliana.m@email.com;05/02/2024;3;Belo Horizonte;MG;34;F;Analista de Sucesso
+1014;Thiago Rodrigues;thiago.r@email.com;08/02/2024;9;Curitiba;PR;29;M;Executivo de Vendas
+1015;Bianca Nunes;bianca.n@email.com;10/02/2024;2;Porto Alegre;RS;32;F;Coordenadora de RH
+1016;Felipe Cardoso;felipe.c@email.com;12/02/2024;5;Salvador;BA;37;M;Sócio-Diretor
+1017;Larissa Freitas;larissa.f@email.com;15/02/2024;4;São Paulo;SP;24;F;Auxiliar Administrativo
+1018;Bruno Machado;bruno.m@email.com;18/02/2024;6;Brasília;DF;39;M;Head de Marketing
+1019;Talita Rodrigues;talita.r@email.com;20/02/2024;10;Recife;PE;30;F;Especialista de Mídias
+1020;Marcelo Dias;marcelo.d@email.com;22/02/2024;1;Fortaleza;CE;44;M;Proprietário
+1021;Carolina Mendes;carolina.m@email.com;25/02/2024;7;São Paulo;SP;31;F;Analista de Produto
+1022;Danilo Oliveira;danilo.o@email.com;27/02/2024;8;Rio de Janeiro;RJ;36;M;Coordenador de Projetos
+1023;Priscila Santos;priscila.s@email.com;01/03/2024;2;Belo Horizonte;MG;28;F;Assistente de Marketing
+1024;André Luiz;andre.l@email.com;03/03/2024;3;Curitiba;PR;47;M;Consultor de Negócios
+1025;Vanessa Lopes;vanessa.l@email.com;05/03/2024;9;Porto Alegre;RS;33;F;Gerente de Vendas
+1026;Ricardo Teixeira;ricardo.t@email.com;08/03/2024;4;Salvador;BA;41;M;Diretor de Marketing
+1027;Aline Rocha;aline.r@email.com;10/03/2024;5;São Paulo;SP;29;F;Coordenadora de Conteúdo
+1028;Eduardo Campos;eduardo.c@email.com;12/03/2024;1;Brasília;DF;38;M;Analista de Negócios
+1029;Tatiane Souza;tatiane.s@email.com;15/03/2024;6;Recife;PE;35;F;Executiva de Contas
+1030;Leandro Castro;leandro.c@email.com;18/03/2024;10;Fortaleza;CE;42;M;Empresário

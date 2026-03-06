@@ -1,0 +1,22 @@
+FitLife Produtos Naturais - Saúde e Bem-Estar
+A FitLife Produtos Naturais é uma empresa de e-commerce especializada em suplementos alimentares, alimentos orgânicos e produtos para bem-estar. Com 3 anos de operação, a empresa tem investido pesado em marketing digital para aumentar sua base de clientes e consolidar a marca no mercado. O time de marketing, coordenado por Rafaela Costa, gerencia diversas campanhas simultâneas em múltiplos canais: Facebook, Instagram, Google Ads, LinkedIn, Email Marketing e parcerias com influenciadores. O grande desafio atual é entender qual combinação de canais e mídias traz o melhor retorno sobre o investimento e como os leads se comportam ao longo do funil de vendas.
+
+A diretoria comercial quer entender por que algumas campanhas geram muitos leads, mas poucas conversões, enquanto outras têm alta taxa de fechamento, mas baixo volume. Para isso, solicitou um dashboard de marketing que integre dados de leads, campanhas, custos e conversões, permitindo visualizar o funil completo, calcular indicadores como CPL (Custo por Lead), CPA (Custo por Aquisição) e ROI, além de identificar gargalos no processo. Seu desafio é construir essa solução no Power BI, normalizando as inconsistências de fonte/mídia e entregando insights acionáveis para otimizar os investimentos de marketing da FitLife.
+
+* VISÃO GERAL:
+
+1 - Total de Leads (contagem de leads únicos)
+2 - Total de Conversões (leads que viraram cliente)
+3 - Taxa de Conversão Geral (clientes / total leads)
+4 - Valor Total de Vendas (soma de Valor_Lead onde é cliente)
+5 - Ticket Médio (média do Valor_Lead dos clientes)
+
+* POR CAMPANHA:
+
+6. Leads por Campanha (gráfico de barras)
+7. Conversões por Campanha (gráfico de pizza)
+8. Taxa de Conversão por Campanha
+
+* POR ETAPA DO FUNIL:
+9. Volume em cada etapa 
+10. Gargalos do funil (onde mais se perde)

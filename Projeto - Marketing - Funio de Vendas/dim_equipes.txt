@@ -1,0 +1,4 @@
+ID_Equipe;Nome_Equipe;Gestor;Especialidade
+1;Mídias Sociais;Carla Souza;Social Media
+2;Conteúdo;Marcos Lima;Content
+3;Performance;Juliana Costa;Tráfego Pago

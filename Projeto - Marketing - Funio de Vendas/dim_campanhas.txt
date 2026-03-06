@@ -1,0 +1,13 @@
+ID_Campanha;Nome_Campanha;Fonte_Original;Mídia_Original;Data_Inicio;Data_Fim;Orçamento;ID_Equipe
+1;Promoção Verão;facebook;social;01/01/2024;31/03/2024;5000;1
+2;Lançamento Produto X;instagram;social;15/02/2024;15/04/2024;8000;2
+3;Newsletter Março;email;email;01/03/2024;31/03/2024;1000;1
+4;Busca Google;google;cpc;01/01/2024;30/06/2024;12000;3
+5;Display Ads;google;display;01/02/2024;31/05/2024;6000;3
+6;Promoção Páscoa;facebook;social;01/03/2024;31/03/2024;3000;1
+7;Anúncio LinkedIn;linkedin;social;01/01/2024;31/03/2024;4000;2
+8;Remarketing;google;display;01/03/2024;30/04/2024;3500;3
+9;Lançamento Produto Y;insta;social;01/04/2024;31/05/2024;7000;2
+10;E-book Marketing;facebook;social;01/02/2024;29/02/2024;2000;1
+11;Parceria Influenciador;youtube;video;01/03/2024;31/03/2024;5000;2
+12;Black Friday;facebook;social;01/11/2024;30/11/2024;10000;1
