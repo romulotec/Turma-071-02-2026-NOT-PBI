@@ -1,0 +1,31 @@
+ID_Tracking;ID_Pedido;ID_Rastreio;Data_Hora_Evento;Status_Entrega;Localizacao;Responsavel;Observacao
+1;3001;R001;01/04/2024 09:30;Pedido recebido;São Paulo - CD;Sistema;
+2;3001;R001;01/04/2024 14:20;Em separação;São Paulo - CD;João;
+3;3001;R001;02/04/2024 08:15;Despachado;São Paulo - CD;Maria;
+4;3001;R001;02/04/2024 16:30;Em trânsito;Rodovia Dutra;Motorista;
+5;3001;R001;03/04/2024 10:45;Saiu para entrega;Rio de Janeiro - Filial;Carlos;
+6;3001;R001;03/04/2024 15:20;Entregue;Rio de Janeiro - Centro;Carlos;Assinado
+7;3002;R002;01/04/2024 10:15;Pedido recebido;São Paulo - CD;Sistema;
+8;3002;R002;01/04/2024 16:30;Em separação;São Paulo - CD;Ana;
+9;3002;R002;03/04/2024 09:00;Despachado;São Paulo - CD;Ana;Atraso na separação
+10;3002;R002;04/04/2024 11:20;Em trânsito;Rodovia Fernão Dias;Motorista;
+11;3002;R002;05/04/2024 14:30;Saiu para entrega;Belo Horizonte - Filial;Pedro;
+12;3002;R002;06/04/2024 10:00;Entregue;Belo Horizonte - Centro;Pedro;
+13;3003;R003;02/04/2024 11:00;Pedido recebido;Curitiba - CD;Sistema;
+14;3003;R003;02/04/2024 17:30;Em separação;Curitiba - CD;Lucas;
+15;3003;R003;03/04/2024 09:45;Despachado;Curitiba - CD;Lucas;
+16;3003;R003;04/04/2024 08:20;Em trânsito;BR-116;Motorista;
+17;3003;R003;05/04/2024 13:40;Saiu para entrega;Porto Alegre - Filial;Juliana;
+18;3003;R003;06/04/2024 11:30;Entregue;Porto Alegre - Centro;Juliana;
+19;3004;R004;02/04/2024 13:20;Pedido recebido;São Paulo - CD;Sistema;
+20;3004;R004;02/04/2024 18:00;Em separação;São Paulo - CD;João;
+21;3004;R004;03/04/2024 10:30;Despachado;São Paulo - CD;João;
+22;3004;R004;04/04/2024 09:15;Em trânsito;Rodovia Castelo Branco;Motorista;
+23;3004;R004;04/04/2024 16:45;Saiu para entrega;Sorocaba - Filial;Marcos;
+24;3004;R004;05/04/2024 09:30;Entregue;Sorocaba - Centro;Marcos;
+25;3005;R005;03/04/2024 10:00;Pedido recebido;Salvador - CD;Sistema;
+26;3005;R005;04/04/2024 09:30;Em separação;Salvador - CD;Carla;
+27;3005;R005;06/04/2024 11:00;Despachado;Salvador - CD;Carla;Atraso
+28;3005;R005;08/04/2024 14:30;Em trânsito;BR-324;Motorista;
+29;3005;R005;09/04/2024 10:20;Saiu para entrega;Feira de Santana - Filial;Renato;
+30;3005;R005;10/04/2024 16:00;Entregue;Feira de Santana - Centro;Renato;Atrasado 3 dias

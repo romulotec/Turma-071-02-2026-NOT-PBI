@@ -1,0 +1,9 @@
+ID_Transportadora;Nome_Transportadora;Tipo_Frota;Regiao_Atuacao;Contato;Telefone;Nota_Media
+101;Rápido Express;Própria;Sudeste;João Santos;11987654321;4.5
+102;Logística Brasil;Terceirizada;Nacional;Maria Costa;21987654321;4.2
+103;Sul Entrega Rápida;Própria;Sul;Pedro Oliveira;41987654321;4.8
+104;Transportadora Norte;Terceirizada;Nordeste;Ana Souza;71987654321;3.9
+105;Central Log;Mista;Centro-Oeste;Carlos Lima;61987654321;4.0
+106;Expressa;Terceirizada;Sudeste;Paula Mendes;11912345678;3.5
+107;Rápidao Entregas;propria;Sul;Roberto Alves;41912345678;4.1
+108;TransBrasil;Mista;Nacional;Fernanda Rocha;11923456789;4.3

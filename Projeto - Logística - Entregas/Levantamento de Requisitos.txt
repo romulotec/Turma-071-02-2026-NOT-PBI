@@ -1,0 +1,18 @@
+ExpressLog Transportes - Eficiência em Logística
+A ExpressLog Transportes é uma empresa de logística e distribuição que atua no mercado há 8 anos, realizando entregas para e-commerces e varejistas em todo o território nacional. Com uma frota de veículos próprios e parcerias com transportadoras regionais, a empresa processa centenas de entregas diariamente, desde pequenos pacotes até cargas fracionadas. O grande diferencial da ExpressLog sempre foi a pontualidade e o cuidado com as mercadorias, mas nos últimos meses a taxa de entregas no prazo começou a cair e o número de reclamações de clientes aumentou.
+
+A diretoria operacional, comandada por Marcelo Antunes, suspeita que o problema esteja relacionado à falta de padronização nos registros de tracking, inconsistências nos dados cadastrais das transportadoras e dificuldade em monitorar em tempo real o status das entregas. Para resolver isso, foi contratado um projeto de Business Intelligence que permita consolidar todos os dados de pedidos, transportadoras e tracking em um único painel, facilitando a identificação de gargalos operacionais, transportadoras com baixo desempenho e regiões com maiores índices de atraso. Seu desafio é construir esse dashboard no Power BI, tratando as inconsistências típicas de um banco de dados operacional e entregando indicadores que ajudem a ExpressLog a recuperar sua eficiência e satisfação dos clientes.
+
+
+* VISÃO GERAL:
+
+1 - Total de Pedidos (contagem de pedidos únicos)
+2 - Total de Entregas Realizadas (pedidos com status "Entregue")
+3 - Pedidos em Aberto (não entregues)
+4 - Valor Total dos Pedidos (soma de Valor_Pedido)
+5 - Ticket Médio por Pedido (média do Valor_Pedido)
+6 - Peso Total Transportado (soma de Peso_kg)
+
+* POR STATUS:
+7. Distribuição de Pedidos por Status (gráfico de pizza/rosca)
+8. Pedidos por Prioridade (Alta, Média, Baixa)

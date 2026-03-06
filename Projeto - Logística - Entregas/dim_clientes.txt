@@ -1,0 +1,15 @@
+ID_Cliente;Nome_Cliente;Cidade;Estado;Regiao;Tipo_Cliente;Cadastro
+201;Loja Tech Ltda;São Paulo;SP;Sudeste;Pessoa Jurídica;15/03/2022
+202;Maria Silva;Rio de Janeiro;RJ;Sudeste;Pessoa Física;20/06/2023
+203;Supermercado Bom Preço;Belo Horizonte;MG;Sudeste;Pessoa Jurídica;10/01/2021
+204;João Pereira;Curitiba;PR;Sul;Pessoa Física;05/09/2023
+205;Farmácia Saúde Total;Porto Alegre;RS;Sul;Pessoa Jurídica;12/11/2022
+206;Carlos Eduardo;Salvador;BA;Nordeste;Pessoa Física;03/03/2024
+207;Loja de Calçados Pé Leve;Recife;PE;Nordeste;Pessoa Jurídica;22/07/2022
+208;Ana Beatriz;Fortaleza;CE;Nordeste;Pessoa Física;18/01/2024
+209;Restaurante Sabor Caseiro;Brasília;DF;Centro-Oeste;Pessoa Jurídica;30/04/2023
+210;Papelaria Criativa;Goiânia;GO;Centro-Oeste;Pessoa Jurídica;14/02/2023
+211;Lucas Mendes;Manaus;AM;Norte;Pessoa Física;07/08/2023
+212;Construtora Novo Lar;Belém;PA;Norte;Pessoa Jurídica;25/05/2022
+213;Marina Oliveira;Florianópolis;SC;Sul;Pessoa Física;11/10/2023
+214;Loja de Presentes Encanto;Vitória;ES;Sudeste;Pessoa Jurídica;19/12/2022
