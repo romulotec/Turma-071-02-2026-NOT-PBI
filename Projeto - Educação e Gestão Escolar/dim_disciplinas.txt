@@ -1,0 +1,11 @@
+ID_Disciplina;Nome_Disciplina;Area_Conhecimento;Carga_Horaria
+D1;Matemática;Exatas;160
+D2;Português;Linguagens;160
+D3;História;Humanas;120
+D4;Geografia;Humanas;120
+D5;Ciências;Natureza;120
+D6;Física;Exatas;80
+D7;Química;Exatas;80
+D8;Inglês;Linguagens;80
+D9;Educação Física;Linguagens;80
+D10;Arte;Linguagens;80

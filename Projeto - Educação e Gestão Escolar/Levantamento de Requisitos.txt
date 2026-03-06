@@ -1,0 +1,26 @@
+Colégio Futuro - Excelência em Ensino
+
+O Colégio Futuro é uma instituição de ensino particular que atua há 15 anos na cidade de São Paulo, oferecendo educação básica (Ensino Fundamental II e Ensino Médio). Com aproximadamente 200 alunos matriculados, a escola sempre se destacou pela qualidade do ensino e pelo acompanhamento próximo ao desempenho dos estudantes. No entanto, com o crescimento do número de turmas e a complexidade da gestão acadêmica, a coordenação pedagógica, liderada pela professora Cristina Mendes, percebeu a necessidade de centralizar as informações de notas, frequência e avaliações em um único local para facilitar o monitoramento do rendimento escolar.
+
+Atualmente, os dados estão espalhados em planilhas diferentes, com formatos inconsistentes, cabeçalhos confusos e registros duplicados. A diretoria solicitou um dashboard no Power BI que consolide as informações de alunos, turmas, avaliações e presença, permitindo visualizar o desempenho por turma, identificar alunos com risco de reprovação, calcular taxas de aprovação e acompanhar a frequência escolar. Seu desafio é construir essa solução, tratando as inconsistências típicas de uma base de dados educacional e entregando indicadores que ajudem o Colégio Futuro a tomar decisões pedagógicas mais assertivas.
+
+
+* VISÃO GERAL:
+
+1 - Total de Alunos (ativos)
+2 - Total de Turmas
+3 - Total de Disciplinas
+4 - Total de Avaliações Realizadas
+
+* NOTAS:
+
+5. Média Geral da Escola (média de todas as notas)
+6. Maior Nota (nota máxima)
+7. Menor Nota (nota mínima)
+
+* PRESENÇA:
+
+8. Total de Faltas (soma de todas as faltas)
+9. Média de Faltas por Aluno
+10. Dias Letivos (considerando o período)
+

@@ -1,0 +1,6 @@
+Turma_ID;Nome_Turma;Serie;Turno;Sala;Professor_Responsavel;Ano_Letivo
+T1;8º Ano A;8º Ano;Manhã;101;Prof. Carlos Alberto;2024
+T2;9º Ano A;9º Ano;Manhã;102;Prof. Renata Oliveira;2024
+T3;8º Ano B;8º Ano;Tarde;103;Prof. Marcos Paulo;2024
+T4;1º EM A;1º EM;Manhã;104;Prof. Juliana Costa;2024
+T5;1º EM B;1º EM;Tarde;105;Prof. Roberto Alves;2024
