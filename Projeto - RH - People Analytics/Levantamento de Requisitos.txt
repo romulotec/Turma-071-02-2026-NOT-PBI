@@ -1,0 +1,36 @@
+TechSolutions Brasil - Inovação em Tecnologia
+A TechSolutions Brasil é uma empresa de tecnologia com 5 anos de mercado, especializada em desenvolvimento de software e consultoria em transformação digital. Com escritórios em São Paulo, Rio de Janeiro, Belo Horizonte e Curitiba, a empresa vive um momento de expansão acelerada, tendo contratado 15 novos colaboradores apenas no último ano. O setor de RH, liderado por Carla Mendes, enfrenta desafios típicos de empresas em crescimento: entender o perfil dos colaboradores, analisar a evolução salarial, monitorar o absenteísmo e otimizar o processo de recrutamento para reduzir o tempo de contratação e garantir a retenção de talentos.
+
+A diretoria solicitou ao time de People Analytics um dashboard completo que permita visualizar de forma integrada todos os dados de colaboradores, salários, ausências e recrutamento. O objetivo é tomar decisões mais estratégicas baseadas em dados, como identificar departamentos com maior rotatividade, analisar a equidade salarial entre gêneros, compreender os padrões de absenteísmo por equipe e avaliar a eficácia dos processos seletivos. Seu desafio é construir esse dashboard no Power BI, tratando as inconsistências dos dados e entregando os principais indicadores que ajudarão a TechSolutions a se tornar ainda mais competitiva no mercado de tecnologia.
+
+* HEADCOUNT
+
+1 - Total de colaboradores ativos
+
+2 - Colaboradores por gênero (gráfico de pizza/rosca)
+
+3 - Colaboradores por departamento
+
+4 - Colaboradores por localidade/cidade
+
+5 - Média de idade dos colaboradores
+
+* SALÁRIOS
+
+1 - Folha salarial total (soma dos salários atuais)
+
+2 - Média ou Médiana salarial da empresa
+
+3 - Maiores e menores salário
+
+4 - Salário médio por cargo
+
+* AUSÊNCIAS
+
+* Total de dias de ausência
+
+* Média de dias ausentes por colaborador
+
+* Total de ausências por tipo (médica, pessoal, férias)
+
+* Taxa de absenteísmo geral

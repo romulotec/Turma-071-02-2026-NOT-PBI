@@ -1,0 +1,6 @@
+ID_Cargo;Nome_Cargo;Nível;ID_Departamento
+1;Analista de RH;Pleno;101
+2;Analista de DP;Sênior;102
+3;Recrutador;Pleno;101
+4;Assistente Administrativo;Júnior;103
+5;Coordenador;Sênior;104

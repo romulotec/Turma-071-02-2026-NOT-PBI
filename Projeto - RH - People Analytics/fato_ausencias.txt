@@ -1,0 +1,16 @@
+ID_Ausencia;ID_Colaborador;Data_Inicio;Data_Fim;Dias_Afastamento;Tipo_Ausencia;Motivo
+1;101;15/05/2023;19/05/2023;5;Médica;Gripe
+2;102;03/04/2023;03/04/2023;1;Pessoal;Assuntos particulares
+3;103;10/01/2023;15/01/2023;5;Férias;Férias
+4;104;20/02/2023;24/02/2023;4;Médica;Cirurgia
+5;105;12/06/2023;16/06/2023;5;Médica;Dengue
+6;107;05/03/2023;05/03/2023;1;Pessoal;Dentista
+7;108;20/07/2023;28/07/2023;8;Férias;Férias
+8;109;02/05/2023;02/05/2023;1;Médica;Consulta
+9;110;18/04/2023;21/04/2023;3;Médica;Enxaqueca
+10;111;22/03/2023;24/03/2023;2;Pessoal;Mudança
+11;113;10/06/2023;14/06/2023;4;Médica;COVID
+12;114;01/02/2023;05/02/2023;4;Férias;Férias
+13;115;08/05/2023;08/05/2023;1;Médica;Exame
+14;102;15/06/2023;16/06/2023;2;Pessoal;Casamento
+15;101;10/07/2023;14/07/2023;5;Férias;Férias

@@ -1,0 +1,16 @@
+ID_Colaborador;Nome;Gênero;Data_Nascimento;Estado_Civil;Filhos;Data_Contratacao;ID_Cargo;ID_Departamento;ID_Localidade;Status
+101;Ana Silva;F;15/03/1990;Solteiro;0;10/01/2022;1;101;1;Ativo
+102;Carlos Santos;M;22/07/1985;Casado;2;15/03/2019;2;102;2;Ativo
+103;Mariana Costa;F;30/11/1992;Casado;1;01/06/2021;3;101;1;Ativo
+104;João Oliveira;M;05/02/1988;Divorciado;1;20/09/2018;2;102;2;Ativo
+105;Patricia Lima;F;18/09/1995;Solteiro;0;05/03/2023;4;103;3;Ativo
+106;Roberto Alves;M;12/04/1982;Casado;3;12/07/2017;1;101;1;Inativo
+107;Camila Rocha;F;25/08/1991;Solteiro;0;18/02/2022;3;102;2;Ativo
+108;Paulo Souza;M;08/12/1987;Casado;2;30/04/2020;5;104;4;Ativo
+109;Fernanda Mendes;F;14/06/1993;Solteiro;0;22/09/2021;2;101;1;Ativo
+110;Lucas Ferreira;M;19/10/1990;Casado;1;07/07/2022;4;103;3;Ativo
+111;Amanda Ribeiro;f;03/02/1989;Casado;2;25/11/2019;1;102;2;Ativo
+112;Gustavo Martins;M;27/05/1986;Solteiro;0;14/08/2018;3;104;4;Inativo
+113;Juliana Santos;F;09/09/1994;Casado;1;02/12/2021;2;101;1;Ativo
+114;Rafael Gomes;M;31/01/1992;Divorciado;1;19/03/2020;5;102;2;Ativo
+115;Beatriz Castro;feminino;16/04/1991;Solteiro;0;11/06/2022;4;103;3;Ativo
