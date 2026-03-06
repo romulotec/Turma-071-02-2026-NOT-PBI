@@ -1,0 +1,23 @@
+Clínica Vida Saudável - Atendimento Médico
+A Clínica Vida Saudável é uma unidade de atenção primária à saúde que atende pacientes de planos de saúde e particulares na região metropolitana de São Paulo. Com 10 anos de atuação, a clínica oferece consultas em diversas especialidades: clínica geral, pediatria, ginecologia, cardiologia e dermatologia. Atualmente, a agenda de atendimentos é controlada por meio de planilhas manuais, o que tem gerado retrabalho, duplicidade de registros e dificuldade para acompanhar indicadores como taxa de comparecimento, tempo médio de espera e produtividade dos médicos.
+
+A diretora administrativa, Dra. Patrícia Almeida, identificou que muitos pacientes agendam consultas e não comparecem (absenteísmo), enquanto outros têm dados cadastrais duplicados no sistema. Além disso, não há uma visão clara sobre quais procedimentos são mais realizados e qual o tempo médio de duração de cada consulta. Para resolver isso, ela contratou você para desenvolver um dashboard no Power BI que consolide os dados de agendamentos, pacientes e procedimentos, permitindo uma gestão mais eficiente da clínica.
+
+* VISÃO GERAL:
+
+1 - Total de Agendamentos (todos os registros)
+2 - Total de Consultas Realizadas (status = "Realizada")
+3 - Total de Consultas Canceladas (status = "Cancelada")
+4 - Total de Consultas Agendadas (status = "Agendado")
+5 - Total de Pacientes (pacientes únicos)
+6 - Total de Profissionais
+
+* FATURAMENTO:
+7. Faturamento Total (soma dos valores das consultas realizadas)
+8. Valor Médio por Consulta (média dos valores)
+9. Maior Valor de Consulta
+10. Menor Valor de Consulta
+
+COMPARECIMENTO:
+11. Total de Pacientes que Compareceram (Compareceu = "Sim")
+12. Total de Pacientes que Não Compareceram (Compareceu = "Não")
